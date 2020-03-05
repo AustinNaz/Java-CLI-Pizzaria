@@ -1,7 +1,3 @@
-*~
-.classpath
-.out
-.idea
 out/
+.idea/
 Assignment.iml
-

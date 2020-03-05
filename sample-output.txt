@@ -1,0 +1,147 @@
+********************************************
+*** Welcome to Austin's Pizza Restaurant ***
+***      Today's date is Mar-04-2020     ***
+********************************************
+--------------------------------------------
+Item             Size                  Price
+--------------------------------------------
+Pizza            Small               $12.75
+Pizza            Large               $18.75
+Sides            Salad                $7.25
+Cola             1 can                $1.75
+Cola             6-pack               $8.0
+Cola             2 L                  $3.75
+
+Enter item choice (P - Pizza, S - Sides, C- Cola, or X - exit): p
+Enter size of pizza (s or l): s
+Enter number of small pizzas to order: 2
+Pizza cost is (incl. GST): $ 26.78
+Is customer order complete? (Y/N)n
+********************************************
+*** Welcome to Austin's Pizza Restaurant ***
+***      Today's date is Mar-04-2020     ***
+********************************************
+--------------------------------------------
+Item             Size                  Price
+--------------------------------------------
+Pizza            Small               $12.75
+Pizza            Large               $18.75
+Sides            Salad                $7.25
+Cola             1 can                $1.75
+Cola             6-pack               $8.0
+Cola             2 L                  $3.75
+
+Enter item choice (P - Pizza, S - Sides, C- Cola, or X - exit): p
+Enter size of pizza (s or l): l
+Enter number of large pizzas to order: 3
+Pizza cost is (incl. GST): $ 59.06
+Is customer order complete? (Y/N)y
+The total cost for this customer is $ 85.84
+********************************************
+*** Welcome to Austin's Pizza Restaurant ***
+***      Today's date is Mar-04-2020     ***
+********************************************
+--------------------------------------------
+Item             Size                  Price
+--------------------------------------------
+Pizza            Small               $12.75
+Pizza            Large               $18.75
+Sides            Salad                $7.25
+Cola             1 can                $1.75
+Cola             6-pack               $8.0
+Cola             2 L                  $3.75
+
+Enter item choice (P - Pizza, S - Sides, C- Cola, or X - exit): s
+Enter number of salads to order: 3
+Side cost is (incl. GST): $ 22.84
+Is customer order complete? (Y/N)y
+The total cost for this customer is $ 22.84
+********************************************
+*** Welcome to Austin's Pizza Restaurant ***
+***      Today's date is Mar-04-2020     ***
+********************************************
+--------------------------------------------
+Item             Size                  Price
+--------------------------------------------
+Pizza            Small               $12.75
+Pizza            Large               $18.75
+Sides            Salad                $7.25
+Cola             1 can                $1.75
+Cola             6-pack               $8.0
+Cola             2 L                  $3.75
+
+Enter item choice (P - Pizza, S - Sides, C- Cola, or X - exit): c
+Enter size of cola (one, six, or two): one
+Enter number of single colas to order: 6
+Cola cost is (incl. GST and deposit): $ 11.66
+Is customer order complete? (Y/N)N
+********************************************
+*** Welcome to Austin's Pizza Restaurant ***
+***      Today's date is Mar-04-2020     ***
+********************************************
+--------------------------------------------
+Item             Size                  Price
+--------------------------------------------
+Pizza            Small               $12.75
+Pizza            Large               $18.75
+Sides            Salad                $7.25
+Cola             1 can                $1.75
+Cola             6-pack               $8.0
+Cola             2 L                  $3.75
+
+Enter item choice (P - Pizza, S - Sides, C- Cola, or X - exit): c
+Enter size of cola (one, six, or two): six
+Enter number of cola  6-pack to order: 1
+Cola cost is (incl. GST and deposit): $ 9.03
+Is customer order complete? (Y/N)n
+********************************************
+*** Welcome to Austin's Pizza Restaurant ***
+***      Today's date is Mar-04-2020     ***
+********************************************
+--------------------------------------------
+Item             Size                  Price
+--------------------------------------------
+Pizza            Small               $12.75
+Pizza            Large               $18.75
+Sides            Salad                $7.25
+Cola             1 can                $1.75
+Cola             6-pack               $8.0
+Cola             2 L                  $3.75
+
+Enter item choice (P - Pizza, S - Sides, C- Cola, or X - exit): c
+Enter size of cola (one, six, or two): two
+Enter number of 2L colas to order: 1
+Cola cost is (incl. GST and deposit): $ 4.20
+Is customer order complete? (Y/N)y
+The total cost for this customer is $ 24.88
+********************************************
+*** Welcome to Austin's Pizza Restaurant ***
+***      Today's date is Mar-04-2020     ***
+********************************************
+--------------------------------------------
+Item             Size                  Price
+--------------------------------------------
+Pizza            Small               $12.75
+Pizza            Large               $18.75
+Sides            Salad                $7.25
+Cola             1 can                $1.75
+Cola             6-pack               $8.0
+Cola             2 L                  $3.75
+
+Enter item choice (P - Pizza, S - Sides, C- Cola, or X - exit): x
+Daily Summary
+--------------------------------------------
+Item        Size        Price      Qty. Sold
+--------------------------------------------
+Pizza       Small      $12.75              2
+Pizza       Large      $18.75              3
+Sides       Salad       $7.25              3
+Cola        1 can       $1.75              6
+Cola        6-pack      $8.00              1
+Cola        2 L         $3.75              1
+--------------------------------------------
+The total revenue for the day is $133.56
+The total number of customers today is 3
+Good bye!
+
+

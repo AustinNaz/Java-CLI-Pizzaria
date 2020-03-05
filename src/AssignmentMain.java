@@ -62,10 +62,10 @@ public class AssignmentMain {
                 "--------------------------------------------\n" +
                 "Pizza            Small               $" + COST_PIZZA_SM + "\n" +
                 "Pizza            Large               $" + COST_PIZZA_LG + "\n" +
-                "Sides            Salad               $" + COST_SALAD + "\n" +
-                "Cola             1 can               $" + COST_COLA_1 + "\n" +
-                "Cola             6-pack              $" + COST_COLA_6 + "\n" +
-                "Cola             2 L                 $" + COST_COLA_2L + "\n";
+                "Sides            Salad                $" + COST_SALAD + "\n" +
+                "Cola             1 can                $" + COST_COLA_1 + "\n" +
+                "Cola             6-pack               $" + COST_COLA_6 + "\n" +
+                "Cola             2 L                  $" + COST_COLA_2L + "\n";
     }
 
     public static void pizzaOutput() {
